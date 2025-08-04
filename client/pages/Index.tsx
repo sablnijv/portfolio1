@@ -22,11 +22,7 @@ export default function Index() {
               </span>
             </div>
 
-            {/* Main Title */}
-            <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold mb-6 animate-fade-in" style={{ animationDelay: '0.2s' }}>
-              <span className="block text-white mb-2">Виталий</span>
-              <span className="block gradient-text">Шабельный</span>
-            </h1>
+          
 
             {/* Subtitle */}
             <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto animate-fade-in" style={{ animationDelay: '0.4s' }}>
