@@ -132,7 +132,7 @@ export default function About() {
               <div className="space-y-4">
                 <div className="flex items-center">
                   <MapPin className="w-5 h-5 text-primary mr-3" />
-                  <span className="text-muted-foreground">Москва, Россия</span>
+                  <span className="text-muted-foreground">Киев , Украина</span>
                 </div>
                 <div className="flex items-center">
                   <Calendar className="w-5 h-5 text-primary mr-3" />
